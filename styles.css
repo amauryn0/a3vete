@@ -151,11 +151,7 @@ nav {
     color: #fff;
 }
 
-.polo1 { 
-    width: 295px !important;
-    height: 275px !important;
-    
-}
+
 
 .polo-info {
     padding: 50px 20px;
@@ -265,18 +261,18 @@ footer {
     }
 
 
-/* Asegúrate de que las imágenes sean flexibles */
+     /* Asegúrate de que las imágenes sean flexibles */
 img {
     max-width: 100%;
     height: auto;
-}
+     }
 
 /* Ajustes adicionales */
 .container {
     max-width: 1200px;
     margin: 0 auto;
     padding: 20px;
-}
+             }
 
 /* Ajuste de imágenes dentro de .product-item */
 .product-item img {
@@ -284,7 +280,7 @@ img {
     height: auto;
     object-fit: cover;
     border-radius: 10px; /* Opcional: para darle un borde redondeado */
-}
+     }
 
 /* Asegúrate de que los contenedores se alineen correctamente */
 .product-item {
@@ -293,14 +289,14 @@ img {
     display: flex;
     flex-direction: column;
     align-items: center;
-}
+      }
 
 
 
 .nav-links {
     flex-direction: column; /* Volver a fila en pantallas más grandes */
     
-}
+    }
 
 
 
